@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kevin R. Sun</title>
+        <link>https://ksun52.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>krsun@umich.edu (Kevin Sun)</managingEditor>
+            <webMaster>krsun@umich.edu (Kevin Sun)</webMaster><lastBuildDate>Wed, 19 Oct 2022 02:10:22 -0400</lastBuildDate>
+            <atom:link href="https://ksun52.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Resume</title>
+    <link>https://ksun52.github.io/posts/resume/</link>
+    <pubDate>Wed, 19 Oct 2022 02:10:22 -0400</pubDate>
+    <author>Kevin Sun</author>
+    <guid>https://ksun52.github.io/posts/resume/</guid>
+    <description><![CDATA[KEVIN R. SUN 734-730-0733 | krsun@umich.edu | linkedin.com/in/krsun | Ann Arbor, MI
+EDUCATION University of Michigan &ndash; April 2024 B.S.E. Double Major in Computer Science, Aerospace Engineering &ndash; Ann Arbor, MI
+GPA: 4.00/4.00
+Coursework: Data Structures/Algorithms, Computer Organization/Architecture, Machine Learning (Coursera), Discrete Math, Linear Algebra, Fundamentals of Product Development, Multivariable/Vector Calculus, Differential Equations
+SKILLS Programming Languages: C++, Python, Matlab, Java, SwiftUI, HTML5/CSS, VBA, LabVIEW
+Programming Tools: Natural Language Toolkit, Pandas, NumPy, AWS, Git, VSCode, IntelliJ, PyCharm, CLion]]></description>
+</item>
+<item>
+    <title>My First Post</title>
+    <link>https://ksun52.github.io/posts/my-first-post/</link>
+    <pubDate>Thu, 18 Aug 2022 01:36:12 -0400</pubDate>
+    <author>Kevin Sun</author>
+    <guid>https://ksun52.github.io/posts/my-first-post/</guid>
+    <description><![CDATA[hello world! ]]></description>
+</item>
+</channel>
+</rss>
